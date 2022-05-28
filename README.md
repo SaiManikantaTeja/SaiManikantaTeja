@@ -2,13 +2,16 @@
 <h1 align="left">Hi 👋, I'm Sai Manikanta Teja</h1>
 <h3 align="left">A frontend developer from India</h3>
 
+
 - 🔭 I’m currently working on **Organ Donation Platform**
+
+- 🧑‍🎓 I’m looking for **Internships and good opportunities.**
 
 - 🌱 I’m currently learning **HTML5, CSS3 and Javascript.**
 
 - 💬 Ask me about **anything Web Designing and Web Accessibility.**
 
-- 📫 How to reach me **saimani.bongurala@gmail.com**
+- 📫 Email: **saimani.bongurala@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

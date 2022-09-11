@@ -2,12 +2,11 @@
 <h1 align="left">Hi 👋, I'm Sai Manikanta Teja</h1>
 <h3 align="left">A frontend developer from India</h3>
 
-
-- 🔭 I’m currently working on **Organ Donation Platform**
+- 🌱 I’m currently learning **HTML5, CSS3 and Javascript.**
 
 - 🧑‍🎓 I’m looking for **Internships and good opportunities.**
 
-- 🌱 I’m currently learning **HTML5, CSS3 and Javascript.**
+- 🎮 Hobbies : Drawing, Painting, Speedcubing and Videogames.
 
 - 💬 Ask me about **anything Web Designing and Web Accessibility.**
 

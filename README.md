@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 🧑‍🎓 I’m looking for **Internships and good opportunities.**
+- 🧑‍🎓 I’m looking for **Frontend Developer Role**
 
 - 🎮 Hobbies : Drawing, Painting, Speedcubing and Videogames.
 

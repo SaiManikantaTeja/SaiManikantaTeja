@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Sai Manikanta Teja</h1>
 <h3 align="left">A frontend developer from India</h3>
 
-- 🌱 I’m currently learning **HTML5, CSS3 and Javascript.**
+- 🌱 I’m currently learning **ReactJS**
 
 - 🧑‍🎓 I’m looking for **Internships and good opportunities.**
 

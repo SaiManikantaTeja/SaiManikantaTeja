@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Sai Manikanta Teja</h1>
-<h3 align="left">A frontend developer from India</h3>
+<h3 align="left">Graduate in Computer Science</h3>
 
 - 🌱 I’m currently learning **ReactJS**
 

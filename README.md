@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **anything Web Designing and Web Accessibility.**
 
-- 📫 Email: **saimani.bongurala@gmail.com**
+- 📫 Email: **bongurala.manikanta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
